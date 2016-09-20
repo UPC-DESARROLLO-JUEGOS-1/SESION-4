@@ -1,0 +1,32 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+UPC-DJ-SESSION-04/UPC-DJ-SESSION-01/Debug/
+UPC-DJ-SESSION-04/UPCFramework/Debug/UPCFramework.tlog/Lib-link.read.1.tlog
+UPC-DJ-SESSION-04/UPCFramework/Debug/
